@@ -54,7 +54,8 @@ This Bash script provides a simple, interactive command-line tool for managing u
      ===============================================
       Welcome to the Users & Groups Management Tool
      ===============================================
-     please Enter the operation you want to perform: 1) User Management
+     please Enter the operation you want to perform:
+     1) User Management
      2) Group Management
      3) Exit
      ```
@@ -131,11 +132,3 @@ This Bash script provides a simple, interactive command-line tool for managing u
 4. Commit your changes (`git commit -m "Add feature XYZ"`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-For issues, suggestions, or questions, open an issue on the GitHub repository or contact the maintainer at [your-email@example.com].
